@@ -1,4 +1,4 @@
-# Climate TRACE Data: the Quest for an Honest and Effective Climate Narrative
+# Climate TRACE Data: the Quest for an Honest and Responsible Global Climate Narrative
 
 In September 2021, [Climate TRACE](https://climatetrace.org/), a coalition of climate-focused NGOs, technology companies, and universities, supported by former Vice President Al Gore, released the first Comprehensive, independent database of global Greenhouse Gas (GHG) emissinos. THe coalition levarages the power cutting-edge technologies such as satellites, remote sensing, and advanced applications of artificial intelligence and machine learning, to identify and track human-caused GHG emissions with unprecedented detail and speed.
 
