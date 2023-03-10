@@ -4,7 +4,7 @@ In September 2021, [Climate TRACE](https://climatetrace.org/), a coalition of cl
 
 In September 2022, Climate TRACE [published](https://climatetrace.org/news/release-notes-november-2022) a new upgraded version of the inventory, encompassing data from 2021, updated emissions totals, more detail (such as the ability to filter by greenhouse gas and global warming potential), and most notably, asset-level data for more than 70,000 of the highest-emitting sources around the world.
 
-The purpose of this project is analysing the emissions inventory, using Python and Jupyter Notebook. I have also used other sources, such as population and GDP data from the [World Bank](https://data.worldbank.org/), as well as the data from the [Global Climate Risk Index](https://reliefweb.int/report/world/global-climate-risk-index-2021). You can find all the datasets in the folder "datasets".
+The purpose of this project is analysing the emissions inventory, using Python and Jupyter Notebook. I have also used other sources, such as population and GDP data from the [World Bank](https://data.worldbank.org/), as well as commulative CO2 emissions data from [Our World in Data](https://ourworldindata.org/contributed-most-global-co2) and data from the [Global Climate Risk Index](https://reliefweb.int/report/world/global-climate-risk-index-2021). You can find all the datasets in the folder "datasets".
 
 Some of the analysis have been published in well-estabished platforms, such as Towards Data Science. Below you can find the publications:
 
